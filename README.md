@@ -29,8 +29,17 @@
 <img src="ScreenShot/2-3.%20제작%20-%203D프린팅.png" width="100%"/>
 </div></br>
 
-### 관리 페이지
+## 기능 : 관리 페이지
+### 입찰 관리
+- 클라이언트가 시작한 입찰 대기 항목들을 보고 파트너사가 입찰
+- 클라이언트가 입찰 내역들중 하나를 선택하면 입찰이 완료
 <div align="center" >
-<img src="ScreenShot/어플리케이션/0.%20로그인.jpg" width="25%"/>&nbsp;
-<img src="ScreenShot/어플리케이션/1.%20메인.jpg" width="25%"/>&nbsp;
+<img src="ScreenShot/관리자페이지/1-2.%20입찰중.png" width="100%"/>&nbsp;
+<img src="ScreenShot/관리자페이지/1-1.%20입찰보기%20(중단).png" width="100%"/>&nbsp;
+</div></br>
+
+### 주문&결제 관리
+- 입찰완료된 항목은 진행 상황에 따라 주문 & 결제 정보가 연동
+<div align="center" >
+<img src="ScreenShot/2.%20주문%20관리.png" width="100%"/>&nbsp;
 </div></br>
