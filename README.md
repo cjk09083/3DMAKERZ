@@ -41,5 +41,16 @@
 ### 주문&결제 관리
 - 입찰완료된 항목은 진행 상황에 따라 주문 & 결제 정보가 연동
 <div align="center" >
-<img src="ScreenShot/2.%20주문%20관리.png" width="100%"/>&nbsp;
+<img src="ScreenShot/관리자페이지/2.%20주문%20관리.png" width="100%"/>&nbsp;
+</div></br>
+
+### 회원 관리
+- 클라이언트의 회원정보와 주문내역 관리
+<div align="center" >
+<img src="ScreenShot/관리자페이지/4-1%20주문내역.png" width="100%"/>&nbsp;
+</div></br>
+
+- 파트너사의 회원정보와 정산내역 관리
+<div align="center" >
+<img src="ScreenShot/관리자페이지/5.%20파트너%20관리.png" width="100%"/>&nbsp;
 </div></br>
